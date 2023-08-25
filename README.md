@@ -7,3 +7,5 @@ Followed this tutorial: https://www.gormanalysis.com/blog/building-a-simple-crud
 
 Run the API Service: 
 `uvicorn main:app --reload`
+
+Or in VScode with a run script

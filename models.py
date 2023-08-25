@@ -1,5 +1,5 @@
 from sqlalchemy import Column, Integer, String
-from database import Base
+from database_orm import Base
 
 # Table DB model definition
 class ToDo(Base):
